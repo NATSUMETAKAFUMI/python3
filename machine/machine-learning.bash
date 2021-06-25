@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 #python3のモジュールインストールのためのコマンドpip3のインストール
-sudo apt install pip3
+sudo apt install pip
 
 #機械学習関連のモジュールのインストール	
 sudo pip3 install numpy
